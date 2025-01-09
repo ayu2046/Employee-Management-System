@@ -34,20 +34,20 @@
 
   This project utilizes the following technologies:
 
-  Frontend:
-    HTML
-    CSS
-    JavaScript
-    React.js
+  **Frontend:**
+    `HTML`
+    `CSS`
+    `JavaScript`
+    `React.js`
     
-  Styling:
-    Tailwind CSS
+  **Styling:**
+    `Tailwind CSS`
     
-  Bundler:
-    Vite
+  **Bundler:**
+    `Vite`
     
-  Storage:
-    LocalStorage
+  **Storage:**
+    `LocalStorage`
 
 This is not a fully deployed project, the database is often required for the deployment, currently working on it.
 
