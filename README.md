@@ -21,32 +21,32 @@
 
 **Functionalities :**
 
-  View Employees: Display a list of all employees with key details.
-  Add Employee: Add new employees with information such as name, role, and contact details.
-  Edit Employee: Modify details of existing employees.
-  Delete Employee: Remove employees from the list.
-  View Task: Display a list of all Tasks with key details.
-  Add Task: Add new Tasks with information such as name, work, and Key responsibilit. 
-  Edit TAsk: Modify details of existing Tasks.
-  Delete Task: Remove Tasks from the list.
+  -View Employees: Display a list of all employees with key details.
+  -Add Employee: Add new employees with information such as name, role, and contact details.
+  -Edit Employee: Modify details of existing employees.
+  -Delete Employee: Remove employees from the list.
+  -View Task: Display a list of all Tasks with key details.
+  -Add Task: Add new Tasks with information such as name, work, and Key responsibilit. 
+  -Edit TAsk: Modify details of existing Tasks.
+  -Delete Task: Remove Tasks from the list.
 
 **Technologies Used :**
 
   This project utilizes the following technologies:
 
-  **Frontend:**
+  -**Frontend:**
     `HTML`
     `CSS`
     `JavaScript`
     `React.js`
     
-  **Styling:**
+  -**Styling:**
     `Tailwind CSS`
     
-  **Bundler:**
+  -**Bundler:**
     `Vite`
     
-  **Storage:**
+  -**Storage:**
     `LocalStorage`
 
 This is not a fully deployed project, the database is often required for the deployment, currently working on it.
