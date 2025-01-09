@@ -21,14 +21,22 @@
 
 **Functionalities :**
 
-  -View Employees: Display a list of all employees with key details.
-  -Add Employee: Add new employees with information such as name, role, and contact details.
-  -Edit Employee: Modify details of existing employees.
-  -Delete Employee: Remove employees from the list.
-  -View Task: Display a list of all Tasks with key details.
-  -Add Task: Add new Tasks with information such as name, work, and Key responsibilit. 
-  -Edit TAsk: Modify details of existing Tasks.
-  -Delete Task: Remove Tasks from the list.
+  -_View Employees_: Display a list of all employees with key details.
+  
+  -_Add Employee_: Add new employees with information such as name, role, and contact details.
+  
+  -_Edit Employee_: Modify details of existing employees.
+  
+  -_Delete Employee_: Remove employees from the list.
+  
+  -_View Task_: Display a list of all Tasks with key details.
+  
+  -_Add Task_: Add new Tasks with information such as name, work, and Key responsibilit. 
+  
+  -_Edit Task_: Modify details of existing Tasks.
+  
+  -_Delete Task_: Remove Tasks from the list.
+  
 
 **Technologies Used :**
 
